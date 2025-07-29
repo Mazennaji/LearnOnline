@@ -1,0 +1,2747 @@
+[
+  {
+  "id": 1,
+  "title": "Introduction to HTML",
+  "description": "Learn the basics of HTML",
+  "instructor": "John Doe",
+  "category": "Web Development",
+  "image": "image/html.webp",
+  "duration_weeks": 2,
+  "price": 29.99,
+  "skills": [
+    "HTML Tags",
+    "Document Structure",
+    "Headings and Paragraphs",
+    "Lists",
+    "Links",
+    "Images",
+    "Tables and Forms"
+  ],
+  "weekly_content": {
+    "week_1": "Learn HTML tags, basic structure, headings, paragraphs, and semantic elements.",
+    "week_2": "Add images, links, lists, tables, and basic forms to create a complete HTML page."
+  }
+},
+  {
+  "id": 2,
+  "title": "CSS Fundamentals",
+  "description": "Master the styling of web pages",
+  "instructor": "Jane Smith",
+  "category": "Web Development",
+  "image": "image/css.png",
+  "duration_weeks": 3,
+  "price": 29.99,
+  "skills": [
+    "CSS Syntax and Selectors",
+    "Colors and Fonts",
+    "Box Model",
+    "Positioning and Layout",
+    "Flexbox and Grid",
+    "Responsive Design"
+  ],
+  "weekly_content": {
+    "week_1": "CSS basics, syntax, selectors, text styling, and applying styles to HTML.",
+    "week_2": "Box model, margins, padding, borders, display types, and positioning.",
+    "week_3": "Responsive design with media queries, Flexbox, Grid, and styling a sample layout."
+  }
+}
+,
+  {
+  "id": 3,
+  "title": "JavaScript Fundamentals",
+  "description": "Master JavaScript and bring websites to life!",
+  "instructor": "Kyle James",
+  "category": "Web Development",
+  "image": "image/javascript.jpg",
+  "duration_weeks": 4,
+  "price": 34.99,
+  "skills": [
+    "JavaScript Syntax",
+    "Variables and Data Types",
+    "Control Flow",
+    "Functions",
+    "DOM Manipulation",
+    "Events",
+    "Basic Debugging"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to JavaScript: variables, data types, operators, and expressions.",
+    "week_2": "Conditional statements, loops, arrays, and basic functions.",
+    "week_3": "DOM manipulation, query selectors, and handling events.",
+    "week_4": "Creating interactive features: form validation and small dynamic projects."
+  }
+}
+,
+  {
+  "id": 4,
+  "title": "PHP Fundamentals",
+  "description": "Master PHP to power up your websites!",
+  "instructor": "Alex Patterson",
+  "category": "Web Development",
+  "image": "image/php.jpg",
+  "duration_weeks": 4,
+  "price":30.99,
+  "skills": [
+    "PHP Syntax",
+    "Variables and Data Types",
+    "Control Structures",
+    "Form Handling",
+    "Working with Files",
+    "Sessions and Cookies",
+    "Basic MySQL Integration"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to PHP, syntax, variables, and data types.",
+    "week_2": "Control structures, loops, functions, and form handling.",
+    "week_3": "Working with files, sessions, cookies, and error handling.",
+    "week_4": "Connecting PHP to MySQL and building a mini CRUD project."
+  }
+}
+,
+  {
+  "id": 5,
+  "title": "SQL Database",
+  "description": "Master SQL - Speak Database Fluently!",
+  "instructor": "John Miller",
+  "category": "Database",
+  "image": "image/sql.avif",
+  "duration_weeks": 3,
+  "price":29.99,
+  "skills": [
+    "SQL Basics",
+    "CRUD Operations",
+    "Filtering and Sorting",
+    "Joins",
+    "Aggregate Functions",
+    "Database Design"
+  ],
+  "weekly_content": {
+    "week_1": "Understanding databases, SQL syntax, SELECT, INSERT, UPDATE, DELETE.",
+    "week_2": "WHERE clause, filtering data, JOIN operations, and table relationships.",
+    "week_3": "Aggregate functions, GROUP BY, HAVING, and basic normalization principles."
+  }
+},
+  {
+  "id": 6,
+  "title": "Python",
+  "description": "Master Python - Build Anything from Apps to AI!",
+  "instructor": "James Walker",
+  "category": "Programming",
+  "image": "image/python.png",
+  "duration_weeks": 5,
+  "price":35.99,
+  "skills": [
+    "Python Syntax",
+    "Data Structures",
+    "Control Flow",
+    "Functions and Modules",
+    "File Handling",
+    "Error Handling",
+    "Object-Oriented Programming",
+    "Working with Libraries"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Python, syntax, variables, and basic I/O.",
+    "week_2": "Lists, tuples, dictionaries, sets, and control flow statements.",
+    "week_3": "Functions, modules, file handling, and exception management.",
+    "week_4": "Object-oriented programming: classes, objects, inheritance.",
+    "week_5": "Exploring standard libraries and a mini project using core concepts."
+  }
+},
+  {
+  "id": 7,
+  "title": "Java",
+  "description": "Master Java - Powerhouse of Enterprise Development!",
+  "instructor": "Thomas Kidd",
+  "category": "Programming",
+  "image": "image/java.jpg",
+  "duration_weeks": 5,
+  "price": 39.99,
+  "skills": [
+    "Java Syntax",
+    "Object-Oriented Programming",
+    "Control Structures",
+    "Exception Handling",
+    "Collections Framework",
+    "File I/O",
+    "Java Classes and Methods"
+  ],
+  "weekly_content": {
+    "week_1": "Java setup, variables, data types, operators, and control flow.",
+    "week_2": "OOP concepts: classes, objects, inheritance, polymorphism, encapsulation.",
+    "week_3": "Exception handling, arrays, strings, and wrapper classes.",
+    "week_4": "Collections (List, Set, Map), generics, and file input/output.",
+    "week_5": "Hands-on mini project using all covered topics."
+  }
+},
+  {
+  "id": 8,
+  "title": "C/C++",
+  "description": "The Backbone of High-Performance Programming!",
+  "instructor": "Kevin Mikes",
+  "category": "Programming",
+  "image": "image/c&cpp.jpg",
+  "duration_weeks": 5,
+  "price": 39.99,
+  "skills": [
+    "C/C++ Syntax",
+    "Pointers and Memory Management",
+    "Control Flow",
+    "Functions and Recursion",
+    "Object-Oriented Programming in C++",
+    "File Handling",
+    "Data Structures (Arrays, Linked Lists)"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to C syntax, variables, input/output, operators, and control structures.",
+    "week_2": "Functions, arrays, pointers, and memory addressing.",
+    "week_3": "Structures in C, dynamic memory allocation, and file I/O.",
+    "week_4": "Intro to C++: classes, constructors, destructors, and OOP basics.",
+    "week_5": "Advanced OOP in C++, inheritance, polymorphism, and final project."
+  }
+},
+  {
+  "id": 9,
+  "title": "Networking",
+  "description": "Where Devices Talk, and Data Travels!",
+  "instructor": "Luke Jordan",
+  "category": "IT & Infrastructure",
+  "image": "image/networking.jpg",
+  "duration_weeks": 9,
+  "price": 44.99,
+  "skills": [
+    "Network Topologies",
+    "IP Addressing and Subnetting",
+    "OSI & TCP/IP Models",
+    "Routing & Switching",
+    "DNS & DHCP",
+    "Firewalls and NAT",
+    "Wireless Networks",
+    "Network Troubleshooting",
+    "Security Protocols"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to computer networks, types, and topologies.",
+    "week_2": "IP addressing, binary math, and subnetting.",
+    "week_3": "OSI model and TCP/IP stack with real-world analogies.",
+    "week_4": "Switching and routing fundamentals.",
+    "week_5": "DHCP, DNS, NAT, and static vs dynamic IPs.",
+    "week_6": "Wireless networks, access points, and configurations.",
+    "week_7": "Firewalls, packet filtering, and port forwarding.",
+    "week_8": "Common tools for network troubleshooting (ping, traceroute, nslookup).",
+    "week_9": "Network security best practices and intro to VPNs."
+  }
+},
+  {
+  "id": 10,
+  "title": "Git & GitHub",
+  "description": "Mastering Version Control and Team Collaboration!",
+  "instructor": "Lara Bernard",
+  "category": "Software Tools",
+  "image": "image/git.png",
+  "duration_weeks": 3,
+  "price": 24.99,
+  "skills": [
+    "Version Control with Git",
+    "Git Workflow (add, commit, push, pull)",
+    "Branching & Merging",
+    "Conflict Resolution",
+    "Remote Repositories",
+    "GitHub Collaboration"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to Git, repositories, and basic commands (init, clone, add, commit).",
+    "week_2": "Branching, merging, resolving conflicts, and local workflows.",
+    "week_3": "Using GitHub: pushing, pull requests, forks, and team collaboration."
+  }
+},
+  {
+  "id": 11,
+  "title": "Data Structures & Algorithms",
+  "description": "The Engine Behind Efficient Code!",
+  "instructor": "Mohammad Suleiman",
+  "category": "Programming",
+  "image": "image/dsa.png",
+  "duration_weeks": 7,
+  "price": 49.99,
+  "skills": [
+    "Arrays and Strings",
+    "Stacks and Queues",
+    "Linked Lists",
+    "Trees and Graphs",
+    "Searching & Sorting",
+    "Recursion & Backtracking",
+    "Algorithm Analysis (Big-O)"
+  ],
+  "weekly_content": {
+    "week_1": "Arrays, strings, and basic algorithm analysis (Big-O).",
+    "week_2": "Stacks and queues: implementation and applications.",
+    "week_3": "Singly and doubly linked lists.",
+    "week_4": "Trees: binary trees, traversal algorithms, and BSTs.",
+    "week_5": "Graphs: BFS, DFS, adjacency lists/matrices.",
+    "week_6": "Searching and sorting: binary search, quicksort, mergesort.",
+    "week_7": "Recursion, backtracking, and problem-solving patterns."
+  }
+},
+  {
+  "id": 12,
+  "title": "Mobile App Development",
+  "description": "Crafting Apps for Every Pocket and Platform!",
+  "instructor": "Sarah Lewis",
+  "category": "App Development",
+  "image": "image/app.avif",
+  "duration_weeks": 6,
+  "price": 44.99,
+  "skills": [
+    "Cross-platform Development",
+    "UI/UX Design Principles",
+    "Navigation and State Management",
+    "APIs and Networking",
+    "Mobile Storage",
+    "App Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to mobile development, IDE setup, and UI layout basics.",
+    "week_2": "Handling user input, navigation, and routing.",
+    "week_3": "State management and responsive design.",
+    "week_4": "Working with REST APIs, JSON, and HTTP requests.",
+    "week_5": "Local storage, permissions, and debugging.",
+    "week_6": "Build, test, and deploy mobile apps to stores or emulators."
+  }
+},
+  {
+  "id": 13,
+  "title": "Machine Learning",
+  "description": "Turning Data into Intelligence!",
+  "instructor": "Ryan Hachem",
+  "category": "AI & Data Science",
+  "image": "image/machine_learning.jpg",
+  "duration_weeks": 8,
+  "price": 59.99,
+  "skills": [
+    "Supervised and Unsupervised Learning",
+    "Linear & Logistic Regression",
+    "Decision Trees & Random Forests",
+    "K-Means Clustering",
+    "Model Evaluation & Tuning",
+    "Scikit-Learn & Pandas",
+    "Machine Learning Pipelines"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to ML, types of learning, and basic Python libraries.",
+    "week_2": "Supervised learning: linear and logistic regression.",
+    "week_3": "Decision trees, overfitting, and ensemble methods.",
+    "week_4": "Unsupervised learning: k-means clustering and dimensionality reduction.",
+    "week_5": "Data preprocessing, feature scaling, and encoding.",
+    "week_6": "Model evaluation: accuracy, precision, recall, F1-score.",
+    "week_7": "Hyperparameter tuning and cross-validation.",
+    "week_8": "End-to-end ML project with scikit-learn and real data."
+  }
+},
+  {
+  "id": 14,
+  "title": "DevOps",
+  "description": "Automating Development, Deployment, and Delivery!",
+  "instructor": "Mark Khoury",
+  "category": "IT & Infrastructure",
+  "image": "image/devops.jpg",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "CI/CD Pipelines",
+    "Infrastructure as Code (IaC)",
+    "Containerization with Docker",
+    "Configuration Management with Ansible",
+    "Monitoring and Logging",
+    "Cloud-based Deployment",
+    "Automation Tools (Jenkins, GitLab CI)"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to DevOps culture and practices.",
+    "week_2": "Version control and continuous integration basics.",
+    "week_3": "Containerization concepts and Docker fundamentals.",
+    "week_4": "Infrastructure as Code with Terraform and Ansible.",
+    "week_5": "Continuous deployment and monitoring tools setup.",
+    "week_6": "End-to-end automated pipeline project."
+  }
+},
+  {
+  "id": 15,
+  "title": "Cloud Computing",
+  "description": "Hosting, Scaling, and Innovating in the Cloud!",
+  "instructor": "Abbas Ismail",
+  "category": "IT & Infrastructure",
+  "image": "image/cloud.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Cloud Service Models (IaaS, PaaS, SaaS)",
+    "AWS, Azure, and Google Cloud basics",
+    "Virtual Machines and Containers",
+    "Cloud Storage and Databases",
+    "Serverless Computing",
+    "Cloud Security Best Practices",
+    "Cloud Deployment and Scaling"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to cloud computing and service models.",
+    "week_2": "Overview of major cloud providers: AWS, Azure, GCP.",
+    "week_3": "Setting up and managing virtual machines and containers.",
+    "week_4": "Cloud storage options and managed databases.",
+    "week_5": "Serverless computing and cloud security fundamentals.",
+    "week_6": "Deploying scalable applications on the cloud."
+  }
+},
+  {
+  "id": 16,
+  "title": "Cybersecurity",
+  "description": "Shielding the Digital World from Threats!",
+  "instructor": "Kareem Said",
+  "category": "IT & Security",
+  "image": "image/cyber.png",
+  "duration_weeks": 7,
+  "price": 64.99,
+  "skills": [
+    "Network Security Fundamentals",
+    "Threat Detection and Prevention",
+    "Cryptography Basics",
+    "Ethical Hacking and Penetration Testing",
+    "Security Policies and Compliance",
+    "Incident Response",
+    "Security Tools (Firewalls, IDS/IPS)"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to cybersecurity and threat landscape.",
+    "week_2": "Understanding network security principles.",
+    "week_3": "Cryptography and encryption methods.",
+    "week_4": "Ethical hacking techniques and penetration testing.",
+    "week_5": "Security policies, compliance, and governance.",
+    "week_6": "Incident response and digital forensics.",
+    "week_7": "Hands-on security tools and final project."
+  }
+},
+  {
+  "id": 17,
+  "title": "Data Analytics",
+  "description": "Unlock the Power of Data to Drive Smart Decisions!",
+  "instructor": "Albert Jones",
+  "category": "Data Science & Analytics",
+  "image": "image/dataanalytics.jpg",
+  "duration_weeks": 7,
+  "price": 52.99,
+  "skills": [
+    "Data Collection and Cleaning",
+    "Exploratory Data Analysis (EDA)",
+    "Data Visualization with Python & Tableau",
+    "Statistical Analysis",
+    "SQL for Data Analytics",
+    "Business Intelligence Concepts",
+    "Reporting and Dashboard Creation"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to data analytics and data lifecycle.",
+    "week_2": "Data collection methods and cleaning techniques.",
+    "week_3": "Exploratory data analysis and visualization basics.",
+    "week_4": "Statistical methods for data analysis.",
+    "week_5": "Using SQL for querying and managing data.",
+    "week_6": "Business intelligence tools and dashboards.",
+    "week_7": "Capstone project: end-to-end data analytics workflow."
+  }
+},
+  {
+  "id": 18,
+  "title": "Artificial Intelligence",
+  "description": "Build intelligent systems that think, learn, and adapt!",
+  "instructor": "Sophia Reed",
+  "category": "AI & Machine Learning",
+  "image": "image/ai.webp",
+  "duration_weeks": 8,
+  "price": 69.99,
+  "skills": [
+    "AI Fundamentals and History",
+    "Search Algorithms and Problem Solving",
+    "Knowledge Representation",
+    "Logic and Reasoning",
+    "Neural Networks and Deep Learning",
+    "Natural Language Processing Basics",
+    "AI Ethics and Future Trends"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to AI and intelligent agents.",
+    "week_2": "Search algorithms: uninformed and informed search.",
+    "week_3": "Knowledge representation and reasoning.",
+    "week_4": "Logic-based AI and rule-based systems.",
+    "week_5": "Neural networks fundamentals and architectures.",
+    "week_6": "Deep learning and introduction to TensorFlow/PyTorch.",
+    "week_7": "Basics of natural language processing.",
+    "week_8": "AI ethics, societal impact, and final project."
+  }
+},
+  {
+  "id": 19,
+  "title": "Game Development",
+  "description": "Create Immersive Worlds with Code, Design, and Creativity!",
+  "instructor": "Maya Carter",
+  "category": "Game Design & Development",
+  "image": "image/gamedev.jpg",
+  "duration_weeks": 9,
+  "price": 79.99,
+  "skills": [
+    "Game Design Principles",
+    "Game Engines (Unity/Unreal/Godot)",
+    "C# and/or GDScript Programming",
+    "2D and 3D Graphics",
+    "Physics and Animation",
+    "User Interface Design",
+    "Game Audio and Effects",
+    "Game Testing and Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to game development and design basics.",
+    "week_2": "Getting started with a game engine (Unity/Godot).",
+    "week_3": "Programming fundamentals for games.",
+    "week_4": "2D game creation: sprites, input, and collision.",
+    "week_5": "3D basics: models, scenes, and cameras.",
+    "week_6": "Physics, animation, and particle effects.",
+    "week_7": "UI design and audio integration.",
+    "week_8": "Game optimization and debugging.",
+    "week_9": "Final project: build and publish a small game."
+  }
+},
+  {
+  "id": 20,
+  "title": "Full Stack Development",
+  "description": "Master Both Frontend & Backend to Build Complete Web Apps!",
+  "instructor": "David Kim",
+  "category": "Web Development",
+  "image": "image/fullstack.webp",
+  "duration_weeks": 10,
+  "price": 89.99,
+  "skills": [
+    "HTML, CSS, JavaScript",
+    "Frontend Frameworks (React/Vue/Angular)",
+    "Backend Development (Node.js, Django, or Flask)",
+    "RESTful APIs and GraphQL",
+    "Databases (SQL and NoSQL)",
+    "Authentication & Authorization",
+    "Deployment & DevOps Basics",
+    "Version Control with Git"
+  ],
+  "weekly_content": {
+    "week_1": "Web fundamentals: HTML, CSS, and JavaScript basics.",
+    "week_2": "Advanced JavaScript and ES6 features.",
+    "week_3": "Frontend frameworks introduction and setup.",
+    "week_4": "Backend fundamentals: Node.js and Express.js.",
+    "week_5": "Databases: SQL and NoSQL concepts and usage.",
+    "week_6": "Building RESTful APIs and GraphQL basics.",
+    "week_7": "Authentication and security best practices.",
+    "week_8": "Connecting frontend with backend.",
+    "week_9": "Testing, debugging, and deployment.",
+    "week_10": "Final project: build a full stack web application."
+  }
+},
+  {
+  "id": 21,
+  "title": "Software Engineering",
+  "description": "Design, Build, and Maintain High-Quality Software Systems!",
+  "instructor": "Noah Brooks",
+  "category": "Software Development",
+  "image": "image/SWE.jpg",
+  "duration_weeks": 10,
+  "price": 79.99,
+  "skills": [
+    "Software Development Life Cycle (SDLC)",
+    "Requirements Analysis and Specification",
+    "Design Patterns and Architecture",
+    "Version Control and Collaboration",
+    "Testing and Quality Assurance",
+    "Agile and Scrum Methodologies",
+    "Continuous Integration and Deployment",
+    "Software Maintenance and Documentation"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to software engineering and SDLC.",
+    "week_2": "Requirements gathering and analysis techniques.",
+    "week_3": "Software design principles and patterns.",
+    "week_4": "Architecture styles: monolith, microservices, layered.",
+    "week_5": "Version control with Git and collaborative workflows.",
+    "week_6": "Software testing fundamentals and methodologies.",
+    "week_7": "Agile development and Scrum framework.",
+    "week_8": "Continuous integration and deployment pipelines.",
+    "week_9": "Software maintenance and refactoring.",
+    "week_10": "Project documentation and final team project."
+  }
+},
+  {
+  "id": 22,
+  "title": "Data Science",
+  "description": "Turn Raw Data into Powerful Insights and Predictions!",
+  "instructor": "Liam Patel",
+  "category": "Data Science & Analytics",
+  "image": "image/data_science.jpg",
+  "duration_weeks": 8,
+  "price": 69.99,
+  "skills": [
+    "Data Wrangling and Cleaning",
+    "Exploratory Data Analysis (EDA)",
+    "Statistical Analysis",
+    "Data Visualization with Python & R",
+    "Machine Learning Basics",
+    "Big Data Tools (Spark, Hadoop)",
+    "Predictive Modeling",
+    "Data Storytelling"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to data science and data lifecycle.",
+    "week_2": "Data wrangling and preprocessing techniques.",
+    "week_3": "Exploratory data analysis and visualization.",
+    "week_4": "Statistical foundations for data science.",
+    "week_5": "Introduction to machine learning algorithms.",
+    "week_6": "Big data concepts and tools overview.",
+    "week_7": "Predictive modeling and evaluation.",
+    "week_8": "Data storytelling and final capstone project."
+  }
+},
+  {
+  "id": 23,
+  "title": "Natural Language Processing",
+  "description": "Make machines understand and speak human language.",
+  "instructor": "Emma Lin",
+  "category": "AI & Machine Learning",
+  "image": "image/nlp.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Text Preprocessing and Tokenization",
+    "Syntax and Semantic Analysis",
+    "Sentiment Analysis",
+    "Language Modeling",
+    "Named Entity Recognition (NER)",
+    "Sequence-to-Sequence Models",
+    "Transformers and BERT",
+    "Building Chatbots"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to NLP and text preprocessing.",
+    "week_2": "Syntax, semantics, and part-of-speech tagging.",
+    "week_3": "Sentiment analysis and text classification.",
+    "week_4": "Sequence models: RNNs, LSTMs, and attention.",
+    "week_5": "Transformers, BERT, and state-of-the-art models.",
+    "week_6": "Building practical NLP applications and chatbots."
+  }
+},
+  {
+  "id": 24,
+  "title": "Blockchain Development",
+  "description": "Step into the future of decentralized technology!",
+  "instructor": "Aya Morgan",
+  "category": "Blockchain & Web3",
+  "image": "image/blockchain.jpg",
+  "duration_weeks": 7,
+  "price": 74.99,
+  "skills": [
+    "Blockchain Fundamentals",
+    "Cryptography Basics",
+    "Smart Contract Development",
+    "Ethereum and Solidity",
+    "Decentralized Applications (dApps)",
+    "Web3.js and Blockchain APIs",
+    "Security Best Practices",
+    "Deploying to Testnets and Mainnets"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to blockchain technology and history.",
+    "week_2": "Cryptography and how blockchain secures data.",
+    "week_3": "Smart contracts basics and Solidity syntax.",
+    "week_4": "Building and deploying smart contracts on Ethereum.",
+    "week_5": "Developing decentralized applications (dApps).",
+    "week_6": "Interacting with blockchain using Web3.js.",
+    "week_7": "Security, testing, and deployment strategies."
+  }
+},
+  {
+  "id": 25,
+  "title": "Object-Oriented Programming (OOP)",
+  "description": "Gain skills to design clean and maintainable software!",
+  "instructor": "Julia Edwards",
+  "category": "Software Development",
+  "image": "image/oop.jpg",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "OOP Concepts: Classes and Objects",
+    "Encapsulation, Inheritance, Polymorphism",
+    "Abstraction and Interfaces",
+    "Design Patterns Basics",
+    "Exception Handling",
+    "File I/O and Serialization",
+    "Unit Testing and Debugging"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to OOP and class design.",
+    "week_2": "Encapsulation and data hiding techniques.",
+    "week_3": "Inheritance and polymorphism explained.",
+    "week_4": "Abstract classes, interfaces, and design patterns.",
+    "week_5": "Exception handling and file input/output.",
+    "week_6": "Unit testing and debugging OOP applications."
+  }
+},
+  {
+  "id": 26,
+  "title": "UI/UX Design",
+  "description": "Create engaging and user-friendly digital experiences!",
+  "instructor": "Samantha Green",
+  "category": "Design & Creativity",
+  "image": "image/uiux.avif",
+  "duration_weeks": 6,
+  "price": 44.99,
+  "skills": [
+    "User Research and Personas",
+    "Wireframing and Prototyping",
+    "Visual Design Principles",
+    "Interaction Design",
+    "Usability Testing",
+    "Design Tools (Figma, Adobe XD)",
+    "Responsive Design",
+    "Accessibility Best Practices"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to UI/UX and user-centered design.",
+    "week_2": "Conducting user research and creating personas.",
+    "week_3": "Wireframing and prototyping basics.",
+    "week_4": "Visual and interaction design principles.",
+    "week_5": "Usability testing and design iteration.",
+    "week_6": "Accessibility and final project presentation."
+  }
+},
+{
+  "id": 27,
+  "title": "Robotics",
+  "description": "Create smart robots with code and hardware!",
+  "instructor": "Hadi Salah",
+  "category": "Engineering & Embedded Systems",
+  "image": "image/robotics.jpg",
+  "duration_weeks": 8,
+  "price": 74.99,
+  "skills": [
+    "Robotics Fundamentals",
+    "Microcontrollers and Sensors",
+    "Actuators and Motors",
+    "Robot Kinematics and Dynamics",
+    "Embedded Programming (C/C++)",
+    "ROS (Robot Operating System)",
+    "Control Systems",
+    "Robot Vision and AI Integration"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to robotics and system components.",
+    "week_2": "Microcontrollers and interfacing sensors.",
+    "week_3": "Actuators, motors, and movement basics.",
+    "week_4": "Robot kinematics and dynamics fundamentals.",
+    "week_5": "Embedded programming for robotics.",
+    "week_6": "ROS basics and robot software architecture.",
+    "week_7": "Control systems and automation.",
+    "week_8": "Robot vision, AI integration, and final project."
+  }
+},
+{
+  "id": 28,
+  "title": "Deep Learning",
+  "description": "Go deeper into the neural networks powering today’s AI revolution!",
+  "instructor": "Elena Vasquez",
+  "category": "AI & Machine Learning",
+  "image": "image/deep.jpg",
+  "duration_weeks": 7,
+  "price": 79.99,
+  "skills": [
+    "Neural Network Architectures",
+    "Convolutional Neural Networks (CNNs)",
+    "Recurrent Neural Networks (RNNs)",
+    "Autoencoders and GANs",
+    "Transfer Learning",
+    "Deep Learning Frameworks (TensorFlow, PyTorch)",
+    "Optimization Techniques",
+    "Deployment of Deep Learning Models"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to deep learning and neural networks.",
+    "week_2": "Feedforward networks and backpropagation.",
+    "week_3": "Convolutional Neural Networks (CNNs) for images.",
+    "week_4": "Recurrent Neural Networks (RNNs) and sequence modeling.",
+    "week_5": "Generative models: Autoencoders and GANs.",
+    "week_6": "Transfer learning and advanced optimization.",
+    "week_7": "Model deployment and real-world applications."
+  }
+},
+{
+  "id": 29,
+  "title": "Generative AI (GenAI)",
+  "description": "Create content, images, and ideas with AI that learns to generate!",
+  "instructor": "Noah Sinclair",
+  "category": "AI & Machine Learning",
+  "image": "image/genAI.png",
+  "duration_weeks": 6,
+  "price": 69.99,
+  "skills": [
+    "Generative Models Basics",
+    "Variational Autoencoders (VAEs)",
+    "Generative Adversarial Networks (GANs)",
+    "Transformers for Generation",
+    "Text, Image, and Audio Generation",
+    "Fine-tuning Pretrained Models",
+    "Ethics of Generative AI"
+  ],
+  "weekly_content": {
+    "week_1": "Overview of generative AI and model types.",
+    "week_2": "Variational Autoencoders explained.",
+    "week_3": "Generative Adversarial Networks fundamentals.",
+    "week_4": "Transformers and attention mechanisms.",
+    "week_5": "Applications: text, image, and audio generation.",
+    "week_6": "Ethics and responsible AI, final project."
+  }
+},
+{
+  "id": 30,
+  "title": "Laravel",
+  "description": "Build powerful and elegant web apps with Laravel!",
+  "instructor": "Zara Haddad",
+  "category": "Web Development",
+  "image": "image/laravel.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "MVC Architecture",
+    "Routing and Middleware",
+    "Blade Templating",
+    "Database ORM with Eloquent",
+    "Authentication and Authorization",
+    "RESTful API Development",
+    "Testing and Debugging",
+    "Deployment Best Practices"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Laravel and MVC basics.",
+    "week_2": "Routing, controllers, and middleware.",
+    "week_3": "Blade templating and frontend integration.",
+    "week_4": "Database management with Eloquent ORM.",
+    "week_5": "User authentication and API development.",
+    "week_6": "Testing, debugging, and deploying Laravel apps."
+  }
+},
+{
+  "id": 31,
+  "title": "MERN Stack",
+  "description": "Build full-stack apps with MongoDB, Express, React, and Node.js!",
+  "instructor": "Fatima Rahman",
+  "category": "Full Stack Development",
+  "image": "image/mern.jpg",
+  "duration_weeks": 8,
+  "price": 79.99,
+  "skills": [
+    "MongoDB Database Basics",
+    "Express.js Server Framework",
+    "React Frontend Development",
+    "Node.js Runtime Environment",
+    "RESTful APIs",
+    "JWT Authentication",
+    "State Management with Redux",
+    "Deployment with Heroku or Vercel"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to MERN stack and setup.",
+    "week_2": "MongoDB and database modeling.",
+    "week_3": "Building REST APIs with Express and Node.js.",
+    "week_4": "React fundamentals and component-based UI.",
+    "week_5": "Advanced React and state management with Redux.",
+    "week_6": "User authentication and authorization.",
+    "week_7": "Connecting frontend and backend.",
+    "week_8": "Deployment and project completion."
+  }
+},
+{
+  "id": 32,
+  "title": "React",
+  "description": "Build fast, interactive user interfaces with React!",
+  "instructor": "Kevin Abdallah",
+  "category": "Frontend Development",
+  "image": "image/react.png",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "JSX and React Components",
+    "State and Props",
+    "Hooks (useState, useEffect)",
+    "Routing with React Router",
+    "Context API and Redux",
+    "Form Handling and Validation",
+    "Performance Optimization",
+    "Testing React Applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to React and JSX syntax.",
+    "week_2": "Components, props, and state basics.",
+    "week_3": "Using hooks for state and lifecycle.",
+    "week_4": "Routing and navigation with React Router.",
+    "week_5": "Global state management: Context API and Redux.",
+    "week_6": "Testing and optimizing React apps."
+  }
+},
+{
+  "id": 33,
+  "title": "Ruby Programming",
+  "description": "Write clean, elegant, and expressive code with Ruby!",
+  "instructor": "Elias Moore",
+  "category": "Programming Languages",
+  "image": "image/ruby.jpg",
+  "duration_weeks": 5,
+  "price": 44.99,
+  "skills": [
+    "Ruby Syntax and Basics",
+    "Object-Oriented Programming in Ruby",
+    "Blocks, Procs, and Lambdas",
+    "Exception Handling",
+    "File I/O",
+    "Metaprogramming Basics",
+    "Testing with RSpec"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Ruby and basic syntax.",
+    "week_2": "Object-oriented concepts in Ruby.",
+    "week_3": "Blocks, Procs, lambdas, and enumerables.",
+    "week_4": "Exception handling and file operations.",
+    "week_5": "Metaprogramming and testing basics."
+  }
+},
+{
+  "id": 34,
+  "title": "Spring Boot",
+  "description": "Build production-ready Java applications fast with Spring Boot!",
+  "instructor": "Jamal Sabbah",
+  "category": "Software Development",
+  "image": "image/springboot.jpg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Spring Boot Fundamentals",
+    "Dependency Injection",
+    "RESTful Web Services",
+    "Data Access with Spring Data JPA",
+    "Security with Spring Security",
+    "Testing Spring Boot Applications",
+    "Application Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Spring Boot and project setup.",
+    "week_2": "Dependency injection and configuration.",
+    "week_3": "Building RESTful APIs with Spring MVC.",
+    "week_4": "Data access using Spring Data JPA.",
+    "week_5": "Security fundamentals with Spring Security.",
+    "week_6": "Testing, deployment, and final project."
+  }
+},
+{
+  "id": 35,
+  "title": "Docker",
+  "description": "Containerize your apps for portability, speed, and scalability!",
+  "instructor": "Leo Mendez",
+  "category": "DevOps & Cloud",
+  "image": "image/docker.jpg",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "Containerization Concepts",
+    "Docker CLI and Images",
+    "Dockerfile Creation",
+    "Docker Compose",
+    "Networking and Volumes",
+    "Container Orchestration Basics",
+    "Deploying Docker Containers"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to containerization and Docker basics.",
+    "week_2": "Working with Docker images and containers.",
+    "week_3": "Writing Dockerfiles and building custom images.",
+    "week_4": "Docker Compose and multi-container applications.",
+    "week_5": "Networking, volumes, and deployment strategies."
+  }
+},
+{
+  "id": 36,
+  "title": "Kubernetes",
+  "description": "Orchestrate containers at scale with Kubernetes!",
+  "instructor": "Nour Hanna",
+  "category": "DevOps & Cloud",
+  "image": "image/kubernetes.webp",
+  "duration_weeks": 6,
+  "price": 69.99,
+  "skills": [
+    "Kubernetes Architecture",
+    "Pods, Services, and Deployments",
+    "ConfigMaps and Secrets",
+    "Scaling and Load Balancing",
+    "Persistent Storage",
+    "Helm Charts",
+    "Monitoring and Logging"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Kubernetes and its architecture.",
+    "week_2": "Managing pods, services, and deployments.",
+    "week_3": "ConfigMaps, Secrets, and environment variables.",
+    "week_4": "Scaling applications and load balancing.",
+    "week_5": "Persistent storage and volumes in Kubernetes.",
+    "week_6": "Helm package manager and monitoring solutions."
+  }
+},
+{
+  "id": 37,
+  "title": ".NET Development",
+  "description": "Develop enterprise-grade applications using .NET!",
+  "instructor": "Samir Clarke",
+  "category": "Software Development",
+  "image": "image/net.webp",
+  "duration_weeks": 7,
+  "price": 74.99,
+  "skills": [
+    ".NET Framework and .NET Core",
+    "C# Programming",
+    "ASP.NET Core MVC",
+    "Entity Framework Core",
+    "RESTful API Development",
+    "Authentication and Authorization",
+    "Unit Testing and Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to .NET ecosystem and C# basics.",
+    "week_2": "Object-oriented programming with C#.",
+    "week_3": "Building web apps with ASP.NET Core MVC.",
+    "week_4": "Data access using Entity Framework Core.",
+    "week_5": "Creating REST APIs and services.",
+    "week_6": "Security: authentication and authorization.",
+    "week_7": "Testing, debugging, and deploying .NET applications."
+  }
+},
+{
+  "id": 38,
+  "title": "C# Programming",
+  "description": "Develop modern applications with one of the most powerful object-oriented languages!",
+  "instructor": "Jordan Blake",
+  "category": "Programming Languages",
+  "image": "image/csharp.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "C# Syntax and Basics",
+    "Object-Oriented Programming Concepts",
+    "Exception Handling",
+    "LINQ and Collections",
+    "Delegates and Events",
+    "Asynchronous Programming",
+    "File I/O",
+    "Unit Testing with NUnit"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to C# and programming basics.",
+    "week_2": "Classes, objects, and OOP principles.",
+    "week_3": "Exception handling and debugging.",
+    "week_4": "Working with LINQ and collections.",
+    "week_5": "Delegates, events, and async programming.",
+    "week_6": "File operations and unit testing."
+  }
+},
+{
+  "id": 39,
+  "title": "Angular",
+  "description": "Build dynamic and scalable web applications with Angular!",
+  "instructor": "Lena Foster",
+  "category": "Frontend Development",
+  "image": "image/angular.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Angular CLI and Setup",
+    "Components and Templates",
+    "Data Binding and Directives",
+    "Services and Dependency Injection",
+    "Routing and Navigation",
+    "Forms and Validation",
+    "HTTP Client and Observables",
+    "State Management with NgRx"
+  ],
+  "weekly_content": {
+    "week_1": "Getting started with Angular and project setup.",
+    "week_2": "Components, templates, and data binding.",
+    "week_3": "Directives and pipes in Angular.",
+    "week_4": "Services, dependency injection, and routing.",
+    "week_5": "Forms, validation, and HTTP communication.",
+    "week_6": "State management with NgRx and final project."
+  }
+},
+{
+  "id": 40,
+  "title": "Theory of Computation",
+  "description": "Explore the mathematical foundations of computer science!",
+  "instructor": "Michael Turner",
+  "category": "Computer Science Fundamentals",
+  "image": "image/theory.jpg",
+  "duration_weeks": 7,
+  "price": 64.99,
+  "skills": [
+    "Automata Theory",
+    "Formal Languages",
+    "Turing Machines",
+    "Computability Theory",
+    "Complexity Classes",
+    "Decidability",
+    "Reduction Techniques"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to automata and formal languages.",
+    "week_2": "Finite automata and regular languages.",
+    "week_3": "Context-free grammars and pushdown automata.",
+    "week_4": "Turing machines and decidability.",
+    "week_5": "Computability theory basics.",
+    "week_6": "Complexity theory and classes P, NP.",
+    "week_7": "Reductions and advanced topics."
+  }
+},
+{
+  "id": 41,
+  "title": "MATLAB",
+  "description": "Master numerical computing and data analysis with MATLAB!",
+  "instructor": "Amina Hassan",
+  "category": "Engineering & Data Science",
+  "image": "image/matlab.webp",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "MATLAB Environment and Basics",
+    "Matrix and Array Operations",
+    "Data Visualization",
+    "Script and Function Writing",
+    "Numerical Methods",
+    "Simulink Basics",
+    "Data Analysis and Plotting"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to MATLAB and workspace.",
+    "week_2": "Matrix operations and programming basics.",
+    "week_3": "Data visualization and plotting techniques.",
+    "week_4": "Numerical methods and algorithm implementation.",
+    "week_5": "Simulink overview and final projects."
+  }
+},
+{
+  "id": 42,
+  "title": "Hadoop",
+  "description": "Handle big data with Apache Hadoop and ecosystem tools!",
+  "instructor": "Daniel Jaafar",
+  "category": "Big Data & Analytics",
+  "image": "image/hadoop.jpg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Hadoop Architecture",
+    "HDFS and MapReduce",
+    "YARN Resource Management",
+    "Hive and Pig Query Languages",
+    "HBase NoSQL Database",
+    "Data Ingestion with Sqoop and Flume",
+    "Big Data Processing"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Hadoop and big data concepts.",
+    "week_2": "HDFS architecture and data storage.",
+    "week_3": "MapReduce programming model.",
+    "week_4": "Data querying with Hive and Pig.",
+    "week_5": "Using HBase for NoSQL storage.",
+    "week_6": "Data ingestion and ecosystem tools."
+  }
+},
+{
+  "id": 43,
+  "title": "Computer Hardware",
+  "description": "Understand the physical components that power computing!",
+  "instructor": "Hassan Fawaz",
+  "category": "Engineering & Computer Science",
+  "image": "image/computer_hardware.webp",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "Computer Architecture Basics",
+    "CPU and Memory Systems",
+    "Storage Devices",
+    "Input/Output Systems",
+    "Motherboards and Chipsets",
+    "Peripheral Devices",
+    "Troubleshooting Hardware"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to computer hardware and architecture.",
+    "week_2": "Understanding CPUs and memory systems.",
+    "week_3": "Storage devices and technologies.",
+    "week_4": "Input/output and peripheral hardware.",
+    "week_5": "Motherboards, buses, and chipsets.",
+    "week_6": "Hardware troubleshooting and maintenance."
+  }
+},
+{
+  "id": 44,
+  "title": "Foundations of Computer Science",
+  "description": "Build a solid base in essential computer science concepts!",
+  "instructor": "Julia Kantar",
+  "category": "Computer Science Fundamentals",
+  "image": "image/foundation.jpg",
+  "duration_weeks": 7,
+  "price": 59.99,
+  "skills": [
+    "Algorithms and Data Structures",
+    "Discrete Mathematics",
+    "Logic and Proof Techniques",
+    "Complexity Theory",
+    "Automata Theory",
+    "Programming Paradigms",
+    "Problem-Solving Strategies"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to computer science and problem solving.",
+    "week_2": "Discrete mathematics fundamentals.",
+    "week_3": "Algorithms and data structures basics.",
+    "week_4": "Logic, proofs, and computational thinking.",
+    "week_5": "Programming paradigms overview.",
+    "week_6": "Complexity and computability theory.",
+    "week_7": "Advanced problem-solving techniques."
+  }
+},
+{
+  "id": 45,
+  "title": "Kotlin Programming",
+  "description": "Build modern Android apps with Kotlin — clean, safe, and concise!",
+  "instructor": "Sami Shouman",
+  "category": "Mobile Development",
+  "image": "image/kotlin.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Kotlin Basics and Syntax",
+    "Object-Oriented Programming in Kotlin",
+    "Functional Programming Concepts",
+    "Coroutines and Asynchronous Programming",
+    "Android App Development Basics",
+    "Kotlin Standard Library",
+    "Testing and Debugging"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Kotlin and environment setup.",
+    "week_2": "Basic syntax and control flow.",
+    "week_3": "Object-oriented and functional programming.",
+    "week_4": "Coroutines and asynchronous tasks.",
+    "week_5": "Building Android apps with Kotlin.",
+    "week_6": "Testing, debugging, and best practices."
+  }
+},
+{
+  "id": 46,
+  "title": "Swift Programming",
+  "description": "Develop iOS apps with Swift — Apple’s powerful and intuitive language!",
+  "instructor": "Oliver Bennett",
+  "category": "Mobile Development",
+  "image": "image/swift.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Swift Syntax and Basics",
+    "Object-Oriented Programming",
+    "Protocol-Oriented Programming",
+    "Error Handling",
+    "Concurrency with Async/Await",
+    "SwiftUI Basics",
+    "Unit Testing and Debugging"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Swift and Xcode setup.",
+    "week_2": "Basic syntax, control flow, and data types.",
+    "week_3": "OOP and protocol-oriented programming.",
+    "week_4": "Error handling and concurrency concepts.",
+    "week_5": "Introduction to SwiftUI and building UI.",
+    "week_6": "Testing, debugging, and app deployment."
+  }
+},
+{
+  "id": 47,
+  "title": "Firebase",
+  "description": "Build real-time apps faster with Firebase’s backend-as-a-service!",
+  "instructor": "Isabella Nehme",
+  "category": "Backend & Cloud",
+  "image": "image/firebase.png",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "Firebase Authentication",
+    "Realtime Database",
+    "Cloud Firestore",
+    "Cloud Functions",
+    "Firebase Hosting",
+    "Crashlytics and Analytics",
+    "Integrations with Web & Mobile"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Firebase and project setup.",
+    "week_2": "Authentication and user management.",
+    "week_3": "Realtime Database and Firestore basics.",
+    "week_4": "Cloud Functions and serverless backend.",
+    "week_5": "Hosting, analytics, and final project."
+  }
+},
+{
+  "id": 48,
+  "title": "Flutter Development",
+  "description": "Build beautiful, cross-platform apps from a single codebase with Flutter!",
+  "instructor": "Layla Moreno",
+  "category": "Mobile Development",
+  "image": "image/flutter.jpg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Dart Language Basics",
+    "Flutter Widgets and Layouts",
+    "State Management",
+    "Navigation and Routing",
+    "Networking and APIs",
+    "Animations and UI Design",
+    "Deployment on iOS and Android"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Dart and Flutter setup.",
+    "week_2": "Building UI with Flutter widgets.",
+    "week_3": "State management techniques.",
+    "week_4": "Navigation, routing, and user input.",
+    "week_5": "Networking and consuming APIs.",
+    "week_6": "Animations and app deployment."
+  }
+},
+{
+  "id": 49,
+  "title": "Operating System",
+  "description": "Understand the software that powers and controls computers!",
+  "instructor": "Sofia Karim",
+  "category": "IT & Computer Science",
+  "image": "image/os.jpeg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "OS Architecture and Components",
+    "Process and Thread Management",
+    "Memory Management",
+    "File Systems",
+    "Concurrency and Synchronization",
+    "Scheduling Algorithms",
+    "Security and Protection"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to operating systems and history.",
+    "week_2": "Processes, threads, and multitasking.",
+    "week_3": "Memory management and virtual memory.",
+    "week_4": "File systems and storage management.",
+    "week_5": "Concurrency, synchronization, and deadlocks.",
+    "week_6": "Security, protection, and final project."
+  }
+},
+{
+  "id": 50,
+  "title": "Digital Logic Design",
+  "description": "Learn how computers think at the most fundamental level!",
+  "instructor": "George Frangieh",
+  "category": "Engineering & Hardware",
+  "image": "image/logic.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Boolean Algebra",
+    "Logic Gates and Circuits",
+    "Combinational Logic Design",
+    "Sequential Circuits",
+    "Flip-Flops and Registers",
+    "Counters and Timers",
+    "Finite State Machines"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to digital logic and Boolean algebra.",
+    "week_2": "Basic logic gates and circuit simplification.",
+    "week_3": "Combinational logic design techniques.",
+    "week_4": "Sequential circuits and flip-flops.",
+    "week_5": "Counters, registers, and timers.",
+    "week_6": "Finite state machines and final project."
+  }
+},
+{
+  "id": 51,
+  "title": "Scala Programming",
+  "description": "Write concise and scalable applications with Scala!",
+  "instructor": "Ahmad Ali",
+  "category": "Programming Languages",
+  "image": "image/scala.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Scala Syntax and Basics",
+    "Functional Programming Concepts",
+    "Object-Oriented Programming",
+    "Collections and Higher-Order Functions",
+    "Pattern Matching",
+    "Concurrency with Akka",
+    "Testing and Debugging"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Scala and environment setup.",
+    "week_2": "Basic syntax and functional programming.",
+    "week_3": "Object-oriented programming in Scala.",
+    "week_4": "Collections and pattern matching.",
+    "week_5": "Concurrency with Akka actors.",
+    "week_6": "Testing, debugging, and project."
+  }
+},
+{
+  "id": 52,
+  "title": "Pascal Programming",
+  "description": "Learn foundational programming concepts with Pascal!",
+  "instructor": "Linda Morales",
+  "category": "Programming Languages",
+  "image": "image/pascal.webp",
+  "duration_weeks": 5,
+  "price": 44.99,
+  "skills": [
+    "Pascal Syntax and Basics",
+    "Procedural Programming",
+    "Control Structures",
+    "Functions and Procedures",
+    "File Handling",
+    "Arrays and Records",
+    "Basic Debugging Techniques"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Pascal and programming basics.",
+    "week_2": "Control structures and data types.",
+    "week_3": "Functions, procedures, and modular programming.",
+    "week_4": "File handling and arrays.",
+    "week_5": "Records and debugging."
+  }
+},
+{
+  "id": 53,
+  "title": "Landing a Tech Job",
+  "description": "Turn your skills into a career in tech! Learn how to build a standout resume, ace interviews, and land your dream job in software, data, IT, or design.",
+  "instructor": "Rachelle Mourad",
+  "category": "Career Development",
+  "image": "image/job.jpg",
+  "duration_weeks": 4,
+  "price": 29.99,
+  "skills": [
+    "Resume and Cover Letter Writing",
+    "Interview Preparation",
+    "Networking Strategies",
+    "Job Search Techniques",
+    "Personal Branding",
+    "Technical Interview Skills",
+    "Negotiation and Offers"
+  ],
+  "weekly_content": {
+    "week_1": "Crafting a standout resume and cover letter.",
+    "week_2": "Preparing for technical and behavioral interviews.",
+    "week_3": "Building a professional network and personal brand.",
+    "week_4": "Job search strategies, negotiations, and next steps."
+  }
+},
+{
+  "id": 54,
+  "title": "Game Development with Godot",
+  "description": "Create 2D and 3D games with a powerful open-source engine! Learn Godot’s interface, scripting, and game design workflows from scratch.",
+  "instructor": "Elias Jawhari",
+  "category": "Game Development",
+  "image": "image/godot.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Godot Engine Basics",
+    "GDScript Programming",
+    "2D Game Development",
+    "3D Game Development",
+    "Physics and Animation",
+    "UI Design in Godot",
+    "Game Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Godot interface and project setup.",
+    "week_2": "GDScript basics and scripting fundamentals.",
+    "week_3": "Creating 2D games and handling input.",
+    "week_4": "3D game development and scene management.",
+    "week_5": "Physics, collisions, and animations.",
+    "week_6": "UI design and exporting your game."
+  }
+},
+{
+  "id": 55,
+  "title": "Web Development with Django",
+  "description": "Build powerful and secure web applications with Python and Django! Learn to create full-featured web apps using models, views, templates, and more.",
+  "instructor": "Fatima Rahman",
+  "category": "Full Stack Development",
+  "image": "image/django.png",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Django Framework Basics",
+    "Models, Views, Templates (MVT)",
+    "Database Management",
+    "User Authentication",
+    "Forms and Validation",
+    "Django REST Framework",
+    "Deployment and Security"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Django and project setup.",
+    "week_2": "Models and database migrations.",
+    "week_3": "Views and templates for dynamic content.",
+    "week_4": "User authentication and permissions.",
+    "week_5": "Building APIs with Django REST Framework.",
+    "week_6": "Deployment and web security best practices."
+  }
+},
+{
+  "id": 56,
+  "title": "API Development",
+  "description": "Connect the digital world by building and consuming APIs! Learn how to design RESTful services, handle authentication, and integrate powerful third-party APIs.",
+  "instructor": "Jason Kim",
+  "category": "Backend Development",
+  "image": "image/api.avif",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "REST API Design Principles",
+    "HTTP Methods and Status Codes",
+    "Authentication and Authorization",
+    "API Documentation with Swagger",
+    "Rate Limiting and Throttling",
+    "Consuming Third-Party APIs",
+    "Testing and Debugging APIs"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to APIs and REST principles.",
+    "week_2": "Designing and building RESTful services.",
+    "week_3": "Authentication, tokens, and security.",
+    "week_4": "API documentation and third-party integrations.",
+    "week_5": "Testing, debugging, and deploying APIs."
+  }
+},
+{
+  "id": 57,
+  "title": "Game Theory",
+  "description": "Understand strategic decision-making in competitive environments! Learn about payoffs, strategies, and Nash equilibrium through real-world scenarios.",
+  "instructor": "Elena Khalil",
+  "category": "Mathematics & AI",
+  "image": "image/Game_Theory.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Basic Game Theory Concepts",
+    "Payoff Matrices",
+    "Nash Equilibrium",
+    "Dominant and Mixed Strategies",
+    "Sequential Games",
+    "Repeated Games",
+    "Applications in Economics and AI"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to game theory and key concepts.",
+    "week_2": "Understanding payoff matrices and strategies.",
+    "week_3": "Nash equilibrium and dominant strategies.",
+    "week_4": "Sequential and extensive form games.",
+    "week_5": "Repeated games and evolutionary strategies.",
+    "week_6": "Applications in economics, AI, and beyond."
+  }
+},
+{
+  "id": 58,
+  "title": "Lua Programming",
+  "description": "Write fast, lightweight scripts for games, apps, and embedded systems! Learn Lua syntax, tables, and integration with platforms like Roblox and Love2D.",
+  "instructor": "Nasser Alaaeddine",
+  "category": "Game Development & Scripting",
+  "image": "image/lua.png",
+  "duration_weeks": 4,
+  "price": 39.99,
+  "skills": [
+    "Lua Syntax and Basics",
+    "Tables and Data Structures",
+    "Functions and Control Flow",
+    "Metatables and Metamethods",
+    "Coroutines",
+    "Integrating Lua with Games",
+    "Scripting in Roblox and Love2D"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Lua and basic syntax.",
+    "week_2": "Tables, functions, and control structures.",
+    "week_3": "Advanced Lua: metatables, metamethods, coroutines.",
+    "week_4": "Lua integration with Roblox and Love2D."
+  }
+},
+{
+  "id": 59,
+  "title": "Go Programming (Golang)",
+  "description": "Build fast, reliable, and scalable software with Go! Learn concurrency, networking, and backend development with Google’s powerful language.",
+  "instructor": "Ziad Karaki",
+  "category": "Backend Development",
+  "image": "image/golang.jpg",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "Go Syntax and Basics",
+    "Goroutines and Concurrency",
+    "Channels and Synchronization",
+    "Error Handling",
+    "Networking and Web Servers",
+    "Go Modules and Packages",
+    "Testing and Benchmarking"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Go and environment setup.",
+    "week_2": "Basic syntax, types, and control flow.",
+    "week_3": "Concurrency with goroutines and channels.",
+    "week_4": "Building web servers and networking.",
+    "week_5": "Testing, benchmarking, and project."
+  }
+},
+{
+  "id": 60,
+  "title": "Rust Programming",
+  "description": "Build blazing-fast and memory-safe software with Rust! Learn the ownership model, error handling, and multithreading to write secure, high-performance apps.",
+  "instructor": "Moustafa AbdelRahim",
+  "category": "Systems Programming",
+  "image": "image/rust.webp",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Rust Syntax and Tooling",
+    "Ownership and Borrowing",
+    "Error Handling with Result and Option",
+    "Lifetimes and Memory Safety",
+    "Concurrency and Multithreading",
+    "Traits and Generics",
+    "Building CLI and Web Apps"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Rust and environment setup.",
+    "week_2": "Ownership, borrowing, and references.",
+    "week_3": "Error handling and pattern matching.",
+    "week_4": "Lifetimes and advanced type system.",
+    "week_5": "Concurrency and multithreading.",
+    "week_6": "Building projects and deployment."
+  }
+},
+{
+  "id": 61,
+  "title": "Game Development with Unreal Engine",
+  "description": "Master Unreal Engine to create breathtaking 3D games and experiences! Learn Unreal’s interface, Blueprint visual scripting, C++ programming, rendering, physics, and deployment workflows.",
+  "instructor": "Mazen Naji",
+  "category": "Game Development",
+  "image": "image/unreal.jpg",
+  "duration_weeks": 8,
+  "price": 79.99,
+  "skills": [
+    "Unreal Engine Interface and Tools",
+    "Blueprint Visual Scripting",
+    "C++ Programming for Unreal",
+    "3D Modeling and Level Design",
+    "Materials and Shaders",
+    "Lighting and Rendering Techniques",
+    "Physics and Animation",
+    "Packaging and Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Unreal Engine and project setup.",
+    "week_2": "Using Blueprints for visual scripting basics.",
+    "week_3": "C++ integration and gameplay programming.",
+    "week_4": "Level design and environment creation.",
+    "week_5": "Materials, shaders, and post-processing effects.",
+    "week_6": "Lighting, shadows, and rendering optimization.",
+    "week_7": "Physics simulation and character animation.",
+    "week_8": "Final project, packaging, and deployment."
+  }
+},
+{
+  "id": 62,
+  "title": "Cryptography",
+  "description": "Secure data and communications by mastering the art and science of cryptography. Learn encryption algorithms, protocols, and practical applications to protect digital information.",
+  "instructor": "Layla Mansour",
+  "category": "IT & Security",
+  "image": "image/crypto.jpg",
+  "duration_weeks": 7,
+  "price": 64.99,
+  "skills": [
+    "Classical Cryptography",
+    "Symmetric Key Algorithms (AES, DES)",
+    "Asymmetric Cryptography (RSA, ECC)",
+    "Hash Functions and Message Digests",
+    "Digital Signatures and Certificates",
+    "Cryptographic Protocols (TLS, SSL)",
+    "Cryptanalysis Basics",
+    "Practical Applications and Security Best Practices"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to cryptography and historical ciphers.",
+    "week_2": "Symmetric key cryptography and block ciphers.",
+    "week_3": "Asymmetric cryptography and public key infrastructure.",
+    "week_4": "Hash functions, message digests, and integrity.",
+    "week_5": "Digital signatures, certificates, and authentication.",
+    "week_6": "Cryptographic protocols like TLS and SSL.",
+    "week_7": "Cryptanalysis overview and real-world applications."
+  }
+},
+{
+  "id": 63,
+  "title": "Computer Vision",
+  "description": "Teach machines to see and understand images and videos! Learn core computer vision techniques, image processing, and deep learning models used in real-world applications.",
+  "instructor": "Karim Haddad",
+  "category": "AI & Machine Learning",
+  "image": "image/vision.jpg",
+  "duration_weeks": 8,
+  "price": 69.99,
+  "skills": [
+    "Image Processing Fundamentals",
+    "Feature Detection and Matching",
+    "Object Detection and Recognition",
+    "Convolutional Neural Networks (CNNs)",
+    "Image Segmentation",
+    "OpenCV and TensorFlow",
+    "Deep Learning for Vision Tasks",
+    "Real-time Video Processing"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to computer vision and image basics.",
+    "week_2": "Image filtering, transformations, and enhancement.",
+    "week_3": "Feature detection and keypoint extraction.",
+    "week_4": "Object detection techniques and models.",
+    "week_5": "Image segmentation and region analysis.",
+    "week_6": "Convolutional neural networks (CNNs) fundamentals.",
+    "week_7": "Using OpenCV and TensorFlow for vision tasks.",
+    "week_8": "Real-time video processing and project deployment."
+  }
+},
+{
+  "id": 64,
+  "title": "F# Programming",
+  "description": "Discover functional-first programming with F#! Learn to build robust, concise, and scalable applications using this powerful .NET language.",
+  "instructor": "Nadia Karam",
+  "category": "Programming Languages",
+  "image": "image/fsharp.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "F# Syntax and Basics",
+    "Functional Programming Concepts",
+    "Immutable Data and Pattern Matching",
+    "Collections and Sequences",
+    "Asynchronous and Parallel Programming",
+    "Type Providers and Data Access",
+    "Interoperability with .NET"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to F# and functional programming.",
+    "week_2": "Basic syntax, data types, and functions.",
+    "week_3": "Pattern matching and immutable data structures.",
+    "week_4": "Collections, sequences, and pipelines.",
+    "week_5": "Asynchronous programming and parallelism.",
+    "week_6": "Working with type providers and .NET interop."
+  }
+},
+{
+  "id": 65,
+  "title": "TypeScript Programming",
+  "description": "Supercharge your JavaScript with TypeScript! Learn static typing, modern ES features, and build large-scale applications with confidence.",
+  "instructor": "Tariq Samaha",
+  "category": "Frontend Development",
+  "image": "image/ts.png",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "TypeScript Syntax and Static Typing",
+    "Type Inference and Type Annotations",
+    "Interfaces, Types, and Generics",
+    "Classes, Inheritance, and OOP in TypeScript",
+    "Modules and Namespaces",
+    "Working with TypeScript in React or Node.js",
+    "Type Safety and Compiler Configuration"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to TypeScript, setup, and basic types.",
+    "week_2": "Functions, arrays, tuples, and enums.",
+    "week_3": "Interfaces, custom types, and generics.",
+    "week_4": "Classes, inheritance, and OOP principles.",
+    "week_5": "Modules, namespaces, and TypeScript config.",
+    "week_6": "Using TypeScript with real projects (React, Node)."
+  }
+},
+{
+  "id": 66,
+  "title": "Node.js Development",
+  "description": "Build scalable backend applications using Node.js! Learn to create servers, APIs, and real-time apps with JavaScript on the server side.",
+  "instructor": "Omar Daccache",
+  "category": "Backend Development",
+  "image": "image/node.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Node.js Environment and Core Modules",
+    "Asynchronous Programming with Callbacks and Promises",
+    "Building RESTful APIs",
+    "Express.js Framework",
+    "Working with Databases (MongoDB or SQL)",
+    "Authentication & Middleware",
+    "Real-Time Apps with WebSockets"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Node.js, setup, and core modules.",
+    "week_2": "Asynchronous programming: callbacks, promises, and async/await.",
+    "week_3": "Building web servers and REST APIs with Express.js.",
+    "week_4": "Connecting Node.js with databases (MongoDB/SQL).",
+    "week_5": "Authentication, middleware, and error handling.",
+    "week_6": "Real-time communication with WebSockets and deployment."
+  }
+},
+{
+  "id": 67,
+  "title": "Haskell Programming",
+  "description": "Master functional programming with Haskell! Learn pure functions, lazy evaluation, type systems, and monads to write elegant and high-assurance software.",
+  "instructor": "Leila Abou Fakher",
+  "category": "Programming Languages",
+  "image": "image/haskell.png",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Haskell Syntax and Functional Paradigms",
+    "Pure Functions and Recursion",
+    "Immutability and Lazy Evaluation",
+    "Type Inference and Algebraic Data Types",
+    "Pattern Matching and Higher-Order Functions",
+    "Monads, Functors, and IO Handling",
+    "Building Functional Applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Haskell, pure functions, and recursion.",
+    "week_2": "Types, type inference, and algebraic data types.",
+    "week_3": "Pattern matching, lists, and higher-order functions.",
+    "week_4": "Lazy evaluation and infinite data structures.",
+    "week_5": "Understanding monads, functors, and IO.",
+    "week_6": "Practical Haskell: building and running real apps."
+  }
+},
+{
+  "id": 68,
+  "title": "AWS Essentials",
+  "description": "Launch your cloud journey with Amazon Web Services! Learn the core AWS services, architecture, and best practices for deploying scalable, secure, and cost-effective solutions.",
+  "instructor": "Sarah Khoury",
+  "category": "DevOps & Cloud",
+  "image": "image/aws.avif",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Cloud Fundamentals and AWS Architecture",
+    "EC2 Instances and Compute Services",
+    "S3 Storage and Lifecycle Policies",
+    "RDS and DynamoDB for Databases",
+    "IAM and Security Best Practices",
+    "AWS CLI and Management Console",
+    "Deploying Web Apps on AWS",
+    "Cost Optimization and Monitoring Tools"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to cloud computing and AWS ecosystem.",
+    "week_2": "Compute services: EC2, AMIs, auto-scaling, and load balancing.",
+    "week_3": "Storage services: S3, EBS, Glacier, and lifecycle policies.",
+    "week_4": "Databases: RDS, DynamoDB, and database best practices.",
+    "week_5": "Security with IAM, roles, policies, and encryption.",
+    "week_6": "Monitoring, cost management, and app deployment workflow."
+  }
+},
+{
+  "id": 69,
+  "title": "Prompt Engineering for AI",
+  "description": "Unlock the full potential of AI tools like ChatGPT, DALL·E, and Midjourney by mastering the art of prompt engineering. Learn how to craft effective prompts for coding, writing, design, and productivity.",
+  "instructor": "Nour El Ameen",
+  "category": "AI & Machine Learning",
+  "image": "image/prompt.jpg",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "Understanding Language Models and AI Tools",
+    "Prompt Structuring Techniques",
+    "Chain-of-Thought and Role-Based Prompts",
+    "Prompting for Code, Content, and Image Generation",
+    "Using Prompt Templates for Reusability",
+    "Evaluating and Iterating Prompts for Accuracy",
+    "Prompt Engineering Tools and APIs (OpenAI, Midjourney)"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to prompt engineering and large language models (LLMs).",
+    "week_2": "Effective prompting techniques: structure, constraints, roles, and chain-of-thought.",
+    "week_3": "Prompting for productivity: writing, coding, and problem solving.",
+    "week_4": "Advanced prompts for image generation and multi-modal tools (DALL·E, Midjourney).",
+    "week_5": "Testing, evaluating, and deploying prompts in real-world AI workflows."
+  }
+},
+{
+  "id": 70,
+  "title": "Building Chat Apps with Socket.IO",
+  "description": "Create real-time chat applications using Node.js and Socket.IO! Learn the fundamentals of WebSockets, real-time event handling, and scalable server-side messaging.",
+  "instructor": "Youssef Hammoud",
+  "category": "Backend Development",
+  "image": "image/socket.jpeg",
+  "duration_weeks": 5,
+  "price": 44.99,
+  "skills": [
+    "WebSockets and Real-Time Communication",
+    "Event-Driven Architecture with Socket.IO",
+    "Building Chat Interfaces with HTML/CSS/JS",
+    "Handling Users, Rooms, and Message Broadcasting",
+    "Integrating Node.js and Express with Socket.IO",
+    "Deploying Real-Time Apps on Cloud Platforms",
+    "Scaling with Redis and Clustering"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to WebSockets and setting up Node.js with Socket.IO.",
+    "week_2": "Creating basic chat features: messaging, rooms, and events.",
+    "week_3": "Building the chat UI with HTML/CSS and connecting it to the backend.",
+    "week_4": "Authentication, user handling, and chat persistence.",
+    "week_5": "Advanced features: typing indicators, emojis, deployment, and scalability tips."
+  }
+},
+{
+  "id": 71,
+  "title": "Software Testing & Quality Assurance",
+  "description": "Ensure your software works flawlessly! Learn testing methodologies, automation, and QA best practices to deliver high-quality, bug-free applications.",
+  "instructor": "Maya Tannous",
+  "category": "Software Engineering",
+  "image": "image/qa.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Manual Testing Techniques",
+    "Test Planning and Documentation",
+    "Unit Testing and Test-Driven Development (TDD)",
+    "Automation Testing with Selenium and Jest",
+    "Integration and System Testing",
+    "Continuous Integration and Continuous Testing",
+    "Bug Tracking and Reporting Tools"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to software testing, QA fundamentals, and test planning.",
+    "week_2": "Manual testing techniques and writing test cases.",
+    "week_3": "Unit testing basics and Test-Driven Development (TDD).",
+    "week_4": "Automation testing with Selenium WebDriver and Jest.",
+    "week_5": "Integration testing, system testing, and regression testing.",
+    "week_6": "Continuous testing, CI pipelines, bug tracking, and reporting."
+  }
+},
+{
+  "id": 72,
+  "title": "Progressive Web Apps (PWAs)",
+  "description": "Build fast, reliable, and engaging web apps that work offline and feel like native apps. Learn how to use modern web APIs to create installable, responsive PWAs.",
+  "instructor": "Lina Fares",
+  "category": "Web Development",
+  "image": "image/pwas.jpg",
+  "duration_weeks": 5,
+  "price": 49.99,
+  "skills": [
+    "Service Workers and Offline Caching",
+    "Web App Manifests and Installability",
+    "Responsive Design and Mobile-First Development",
+    "Push Notifications and Background Sync",
+    "Performance Optimization for PWAs",
+    "Using Frameworks and Tools for PWAs"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to PWAs, benefits, and setup.",
+    "week_2": "Implementing Service Workers for offline support.",
+    "week_3": "Creating Web App Manifests and enabling installability.",
+    "week_4": "Adding push notifications and background sync.",
+    "week_5": "Optimizing performance and deploying PWAs."
+  }
+},
+{
+  "id": 73,
+  "title": "Symfony Framework",
+  "description": "Build robust and scalable PHP applications with Symfony! Learn MVC architecture, routing, templating, and advanced features for enterprise-level projects.",
+  "instructor": "Maya Haddad",
+  "category": "Web Development",
+  "image": "image/symfony.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Symfony Architecture and Installation",
+    "Routing and Controllers",
+    "Twig Templating Engine",
+    "Doctrine ORM Integration",
+    "Security and Authentication",
+    "Form Handling and Validation",
+    "Testing and Deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Getting started with Symfony and project setup.",
+    "week_2": "Routing, controllers, and request handling.",
+    "week_3": "Using Twig for templating and frontend integration.",
+    "week_4": "Database interaction with Doctrine ORM.",
+    "week_5": "Implementing security, authentication, and roles.",
+    "week_6": "Form management, testing, and deploying Symfony apps."
+  }
+},
+{
+  "id": 74,
+  "title": "Hibernate ORM Framework",
+  "description": "Master Hibernate to simplify database interactions in Java applications! Learn object-relational mapping (ORM), data persistence, and advanced querying techniques.",
+  "instructor": "Rami Saadeh",
+  "category": "Software Development",
+  "image": "image/Hibernate.webp",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Hibernate Architecture and Setup",
+    "Entity Mapping and Annotations",
+    "Session and Transaction Management",
+    "Hibernate Query Language (HQL)",
+    "Criteria API and Native SQL Queries",
+    "Caching and Performance Tuning",
+    "Integrating Hibernate with Spring Framework"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Hibernate and ORM concepts.",
+    "week_2": "Mapping entities and relationships.",
+    "week_3": "Session management and transactions.",
+    "week_4": "Querying with HQL and Criteria API.",
+    "week_5": "Caching strategies and performance optimization.",
+    "week_6": "Integrating Hibernate with Spring and best practices."
+  }
+},
+{
+  "id": 75,
+  "title": "Flask Web Development",
+  "description": "Build lightweight and scalable web applications with Flask, a popular Python micro-framework. Learn routing, templating, database integration, and RESTful APIs.",
+  "instructor": "Nadia Taha",
+  "category": "Backend Development",
+  "image": "image/flask.webp",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "Flask setup and project structure",
+    "Routing and view functions",
+    "Jinja2 templating engine",
+    "Form handling and validation",
+    "Database integration with SQLAlchemy",
+    "RESTful API development",
+    "Deploying Flask applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Flask and creating your first app.",
+    "week_2": "Routing, templates, and static files.",
+    "week_3": "Forms, user input, and validation.",
+    "week_4": "Working with databases using SQLAlchemy.",
+    "week_5": "Building RESTful APIs and JSON responses.",
+    "week_6": "Testing and deploying Flask applications."
+  }
+},
+{
+  "id": 76,
+  "title": "MongoDB for Developers",
+  "description": "Master MongoDB, the leading NoSQL database. Learn data modeling, CRUD operations, indexing, aggregation, and integration with backend frameworks.",
+  "instructor": "Leila Hammoud",
+  "category": "Database & Backend",
+  "image": "image/mongodb.png",
+  "duration_weeks": 5,
+  "price": 44.99,
+  "skills": [
+    "MongoDB setup and architecture",
+    "CRUD operations and query language",
+    "Data modeling and schema design",
+    "Indexes and performance tuning",
+    "Aggregation framework",
+    "Security and backups",
+    "Integrating MongoDB with Node.js and Python"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to MongoDB and installation.",
+    "week_2": "CRUD operations and querying documents.",
+    "week_3": "Schema design and data modeling best practices.",
+    "week_4": "Indexing and aggregation pipelines.",
+    "week_5": "Security, backups, and integration with apps."
+  }
+},
+{
+  "id": 77,
+  "title": "Express.js Web Development",
+  "description": "Learn to build fast and scalable backend applications with Express.js, the minimalist Node.js framework. Cover routing, middleware, APIs, and integration with databases.",
+  "instructor": "Omar Daccache",
+  "category": "Backend Development",
+  "image": "image/express.png",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Express.js setup and middleware",
+    "Routing and request handling",
+    "Templating engines and views",
+    "Building RESTful APIs",
+    "Error handling and debugging",
+    "Database integration (MongoDB, SQL)",
+    "Deploying Express applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Express.js and project setup.",
+    "week_2": "Routing and middleware fundamentals.",
+    "week_3": "Working with views and templating engines.",
+    "week_4": "Building RESTful APIs and handling JSON.",
+    "week_5": "Error handling, logging, and debugging.",
+    "week_6": "Database integration and deploying apps."
+  }
+},
+{
+  "id": 78,
+  "title": "MEAN Stack Development",
+  "description": "Build powerful full-stack web applications using the MEAN stack: MongoDB, Express.js, Angular, and Node.js. Learn how to develop scalable, maintainable, and modern web apps with a unified JavaScript codebase.",
+  "instructor": "Zayn El-Haddad",
+  "category": "Full Stack Development",
+  "image": "image/mean-stack.jpg",
+  "duration_weeks": 8,
+  "price": 69.99,
+  "skills": [
+    "MongoDB: NoSQL databases and data modeling",
+    "Express.js: Backend API development",
+    "Angular: Frontend SPA development",
+    "Node.js: Server-side JavaScript runtime",
+    "RESTful API design and integration",
+    "User authentication and authorization",
+    "Deployment and environment management"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to the MEAN stack and setting up the environment.",
+    "week_2": "MongoDB basics and schema design.",
+    "week_3": "Building RESTful APIs with Express.js and Node.js.",
+    "week_4": "Introduction to Angular and creating components.",
+    "week_5": "Routing and services in Angular.",
+    "week_6": "Connecting Angular frontend with Express backend.",
+    "week_7": "Implementing user authentication and authorization.",
+    "week_8": "Testing, deployment, and project wrap-up."
+  }
+},
+{
+  "id": 79,
+  "title": "Ruby on Rails Web Development",
+  "description": "Build powerful, scalable web applications quickly with Ruby on Rails. Learn MVC architecture, routing, database integration, and deploying Rails apps.",
+  "instructor": "Sara Haddad",
+  "category": "Web Development",
+  "image": "image/rails.png",
+  "duration_weeks": 7,
+  "price": 59.99,
+  "skills": [
+    "Ruby programming basics",
+    "Rails MVC architecture",
+    "Routing and RESTful design",
+    "Active Record and database migrations",
+    "Views and templating with ERB",
+    "Authentication and authorization",
+    "Testing and deployment"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Ruby and Rails environment setup.",
+    "week_2": "Understanding MVC and routing in Rails.",
+    "week_3": "Working with models and Active Record.",
+    "week_4": "Building views and templates.",
+    "week_5": "User authentication and security.",
+    "week_6": "Testing Rails applications.",
+    "week_7": "Deployment to production servers."
+  }
+},
+{
+  "id": 80,
+  "title": "Web Development with Actix (Rust)",
+  "description": "Create high-performance, reliable web applications using Actix, a powerful Rust web framework. Learn routing, middleware, async programming, and secure backend development.",
+  "instructor": "Karim Youssef",
+  "category": "Systems Programming",
+  "image": "image/actix.png",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Rust programming fundamentals",
+    "Actix web server setup",
+    "Routing and request handling",
+    "Middleware and state management",
+    "Asynchronous programming in Rust",
+    "Database integration with Diesel",
+    "Security and testing Actix apps"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Rust and Actix setup.",
+    "week_2": "Basic routing and handlers in Actix.",
+    "week_3": "Middleware and managing app state.",
+    "week_4": "Async programming and concurrency.",
+    "week_5": "Database access with Diesel ORM.",
+    "week_6": "Security best practices and testing."
+  }
+},
+{
+  "id": 81,
+  "title": "MySQL for Developers",
+  "description": "Master relational databases with MySQL! Learn to design schemas, write powerful SQL queries, and integrate MySQL with backend applications.",
+  "instructor": "Dana El Khoury",
+  "category": "Database & Backend",
+  "image": "image/mysql.webp",
+  "duration_weeks": 6,
+  "price": 44.99,
+  "skills": [
+    "SQL Syntax and Query Writing",
+    "Database Design and Normalization",
+    "Joins, Subqueries, and Aggregations",
+    "Stored Procedures and Triggers",
+    "User Permissions and Security",
+    "Data Backup and Import/Export",
+    "Connecting MySQL to Web Applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to relational databases and MySQL installation.",
+    "week_2": "Creating databases, tables, and basic SQL queries.",
+    "week_3": "Advanced queries: joins, subqueries, and aggregate functions.",
+    "week_4": "Schema design, normalization, and relationships.",
+    "week_5": "Stored procedures, views, and triggers.",
+    "week_6": "User management, security, and integrating MySQL with backend apps."
+  }
+},
+{
+  "id": 82,
+  "title": "Perl Programming",
+  "description": "Master Perl — the powerful scripting language for text processing, system automation, and backend development. Learn to write robust scripts and automate complex tasks with ease.",
+  "instructor": "Omar Ghattas",
+  "category": "Programming Languages",
+  "image": "image/perl.webp",
+  "duration_weeks": 5,
+  "price": 39.99,
+  "skills": [
+    "Perl syntax and scripting basics",
+    "Scalar variables, arrays, and hashes",
+    "Regular expressions and text parsing",
+    "File handling and system I/O",
+    "Subroutines and modules",
+    "Error handling and debugging",
+    "Automating tasks and working with databases"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Perl, installation, and scripting basics.",
+    "week_2": "Working with variables, control structures, and arrays.",
+    "week_3": "Regular expressions, pattern matching, and file operations.",
+    "week_4": "Subroutines, modules, and Perl package management.",
+    "week_5": "Automating tasks and integrating Perl with databases and the shell."
+  }
+},
+{
+  "id": 83,
+  "title": "IT Automation",
+  "description": "Automate repetitive IT tasks and boost efficiency using powerful tools and scripting languages. Learn to streamline workflows, manage systems, and eliminate manual processes.",
+  "instructor": "Rayan Daoud",
+  "category": "IT & Infrastructure",
+  "image": "image/automation.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Shell scripting (Bash, PowerShell)",
+    "Python for automation",
+    "Automating system administration tasks",
+    "Scheduling with cron and task scheduler",
+    "Using Ansible for configuration management",
+    "Monitoring and log automation",
+    "Automating software deployments"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to IT automation and scripting basics.",
+    "week_2": "Shell scripting: automating tasks in Unix/Linux systems.",
+    "week_3": "Python scripting for file, network, and system automation.",
+    "week_4": "Task scheduling and job automation (cron, at, Task Scheduler).",
+    "week_5": "Ansible fundamentals: provisioning, configuration, and playbooks.",
+    "week_6": "Automation in real-world IT environments: monitoring, deployments, and logs."
+  }
+},
+{
+  "id": 84,
+  "title": "Network Security",
+  "description": "Protect networks against intrusions, attacks, and data breaches. Learn essential tools, protocols, and best practices to secure IT infrastructure and defend against threats.",
+  "instructor": "Layal Zahran",
+  "category": "Cybersecurity",
+  "image": "image/NetworkSecurity.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "OSI Model & TCP/IP Security",
+    "Firewalls, IDS & IPS Systems",
+    "VPNs and Secure Tunneling",
+    "Network Scanning & Vulnerability Assessment",
+    "Wireless Network Security",
+    "Packet Analysis & Wireshark",
+    "Access Control & Authentication Protocols"
+  ],
+  "weekly_content": {
+    "week_1": "Foundations of network security and common threats.",
+    "week_2": "Firewalls, intrusion detection/prevention, and network segmentation.",
+    "week_3": "Secure protocols: SSL/TLS, SSH, VPNs, and tunneling.",
+    "week_4": "Network scanning, penetration testing, and vulnerability assessment.",
+    "week_5": "Wireless security, encryption standards, and securing Wi-Fi networks.",
+    "week_6": "Monitoring, packet analysis with Wireshark, and best practices in access control."
+  }
+},
+{
+  "id": 85,
+  "title": "Computer Forensics",
+  "description": "Investigate digital crimes and uncover hidden evidence! Learn how to collect, analyze, and preserve digital data in a forensically sound manner for use in legal or corporate investigations.",
+  "instructor": "Nour Abou Khaled",
+  "category": "Cybersecurity",
+  "image": "image/computer_forensics.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Fundamentals of Digital Forensics",
+    "Evidence Acquisition and Preservation",
+    "File Systems and Data Recovery",
+    "Forensic Tools (e.g., Autopsy, FTK, EnCase)",
+    "Email and Browser Artifact Analysis",
+    "Chain of Custody & Legal Considerations",
+    "Incident Response and Report Writing"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to computer forensics and investigation process.",
+    "week_2": "Understanding storage media and data acquisition methods.",
+    "week_3": "Recovering deleted files, analyzing file systems and hidden data.",
+    "week_4": "Analyzing logs, emails, and internet artifacts.",
+    "week_5": "Using forensic tools and documenting evidence.",
+    "week_6": "Reporting findings, maintaining chain of custody, and preparing for court."
+  }
+},
+{
+  "id": 86,
+  "title": "Concepts of Programming Languages",
+  "description": "Explore the fundamental principles behind programming languages! Learn syntax, semantics, paradigms, and implementation models across a wide variety of languages.",
+  "instructor": "Salim Farhat",
+  "category": "Computer Science Fundamentals",
+  "image": "image/concepts.jpg",
+  "duration_weeks": 7,
+  "price": 59.99,
+  "skills": [
+    "Syntax and Semantics of Languages",
+    "Programming Paradigms (Imperative, Functional, Logic, OOP)",
+    "Lexical and Syntactic Analysis",
+    "Data Types, Control Structures, and Scoping",
+    "Memory Management and Garbage Collection",
+    "Language Translation and Interpretation",
+    "Comparative Study of Language Design (C, Python, Lisp, Prolog, etc.)"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to language design and classification.",
+    "week_2": "Syntax, semantics, and parsing concepts.",
+    "week_3": "Data types, variables, and control flow across paradigms.",
+    "week_4": "Subroutines, parameter passing, and scope rules.",
+    "week_5": "Memory management, stack vs heap, and garbage collection.",
+    "week_6": "Functional, logic, and object-oriented paradigms in depth.",
+    "week_7": "Interpreters vs compilers, and comparing real-world languages."
+  }
+},
+{
+  "id": 87,
+  "title": "Design Patterns",
+  "description": "Write cleaner, more maintainable, and scalable code with proven software design patterns. Learn how to recognize, implement, and apply patterns in real-world applications.",
+  "instructor": "Hassan Abou Ghannam",
+  "category": "Software Engineering",
+  "image": "image/design_pattern.png",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Object-Oriented Design Principles",
+    "Creational Patterns (Singleton, Factory, Builder)",
+    "Structural Patterns (Adapter, Decorator, Composite)",
+    "Behavioral Patterns (Observer, Strategy, Command)",
+    "UML Diagrams for Pattern Representation",
+    "Anti-patterns and Best Practices",
+    "Pattern Application in Real Projects (Java, Python, etc.)"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to design principles (SOLID) and the role of patterns.",
+    "week_2": "Creational patterns: Singleton, Factory Method, Builder.",
+    "week_3": "Structural patterns: Adapter, Composite, Decorator.",
+    "week_4": "Behavioral patterns: Observer, Command, Strategy.",
+    "week_5": "Implementing patterns in Java and Python with UML examples.",
+    "week_6": "Best practices, anti-patterns, and real-world design case studies."
+  }
+},
+{
+  "id": 88,
+  "title": "Secure Coding",
+  "description": "Write software that’s secure by design! Learn how to identify and prevent common vulnerabilities, follow best practices, and build applications that resist attacks.",
+  "instructor": "Maya Al-Masri",
+  "category": "Cybersecurity & Software Engineering",
+  "image": "image/secure_coding.jpg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Secure coding principles (input validation, least privilege, etc.)",
+    "Common vulnerabilities (OWASP Top 10)",
+    "Buffer overflows, injection attacks, and XSS/CSRF prevention",
+    "Secure authentication and session management",
+    "Safe error handling and logging",
+    "Security in web, mobile, and API development",
+    "Secure code review and static analysis tools"
+  ],
+  "weekly_content": {
+    "week_1": "Fundamentals of secure coding and threat modeling.",
+    "week_2": "Understanding the OWASP Top 10 and common coding pitfalls.",
+    "week_3": "Secure input validation, output encoding, and error handling.",
+    "week_4": "Authentication, session management, and secure storage.",
+    "week_5": "Code review practices and using static/dynamic analysis tools.",
+    "week_6": "Secure architecture patterns and applying security to real projects."
+  }
+},
+{
+  "id": 89,
+  "title": "Project Management",
+  "description": "Master the art of planning, executing, and leading successful tech projects. Learn methodologies, tools, and leadership skills to deliver results on time and within budget.",
+  "instructor": "Rita Al-Hassan",
+  "category": "Business & Management",
+  "image": "image/project_management.png",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Project planning and lifecycle management",
+    "Agile, Scrum, and Waterfall methodologies",
+    "Task breakdown and resource allocation",
+    "Risk assessment and mitigation",
+    "Communication and stakeholder management",
+    "Progress tracking with tools like Trello, Jira, MS Project",
+    "Budgeting and deadline management"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to project management and lifecycle phases.",
+    "week_2": "Understanding Agile, Scrum, and traditional approaches.",
+    "week_3": "Defining scope, timelines, and resource planning.",
+    "week_4": "Risk management, quality assurance, and budgeting.",
+    "week_5": "Managing teams, communication, and stakeholders.",
+    "week_6": "Using tools (Trello, Jira), reporting, and post-project reviews."
+  }
+},
+{
+  "id": 90,
+  "title": "Visual Programming",
+  "description": "Learn programming through visual, block-based interfaces! Ideal for beginners, educators, and creative minds—build interactive projects without writing code line-by-line.",
+  "instructor": "Dana Sleiman",
+  "category": "Programming Fundamentals",
+  "image": "image/visual_programming.jpg",
+  "duration_weeks": 5,
+  "price": 34.99,
+  "skills": [
+    "Block-based programming logic",
+    "Control flow and loops with visuals",
+    "Events and interactivity",
+    "Working with sprites, animations, and media",
+    "Debugging and testing without code",
+    "Project creation in Scratch, Blockly, and MIT App Inventor",
+    "Transitioning from visual to text-based coding"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to visual programming and environments (Scratch, Blockly).",
+    "week_2": "Understanding logic: loops, conditionals, and variables in a visual context.",
+    "week_3": "Creating interactive projects with events, sounds, and motion.",
+    "week_4": "Building games and apps with drag-and-drop components.",
+    "week_5": "Project showcase, debugging, and transitioning to real code."
+  }
+},
+{
+  "id": 91,
+  "title": "Parallel Processing",
+  "description": "Unlock the power of parallelism to speed up computation! Learn concepts, architectures, and programming techniques to write efficient concurrent programs.",
+  "instructor": "Tarek Mansour",
+  "category": "Computer Science Fundamentals",
+  "image": "image/parallel_processing.jpg",
+  "duration_weeks": 7,
+  "price": 64.99,
+  "skills": [
+    "Parallel vs Sequential computing",
+    "Multithreading and multiprocessing",
+    "Shared memory and distributed memory models",
+    "Synchronization and race conditions",
+    "Parallel algorithms and data structures",
+    "Using OpenMP, MPI, and CUDA",
+    "Performance tuning and debugging parallel programs"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to parallel processing concepts and architectures.",
+    "week_2": "Threading basics and process management.",
+    "week_3": "Synchronization primitives: mutexes, semaphores, and locks.",
+    "week_4": "Parallel algorithms and common design patterns.",
+    "week_5": "Distributed memory models and message passing (MPI).",
+    "week_6": "GPU programming basics with CUDA.",
+    "week_7": "Debugging and optimizing parallel applications."
+  }
+},
+{
+  "id": 92,
+  "title": "Application Software Security",
+  "description": "Learn how to design, develop, and maintain secure applications. Understand common software vulnerabilities and implement security best practices to protect your software from threats.",
+  "instructor": "Nadine Saad",
+  "category": "Cybersecurity & Software Engineering",
+  "image": "image/Application-Security.jpeg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Secure Software Development Lifecycle (SSDLC)",
+    "Common vulnerabilities (buffer overflows, injection flaws)",
+    "Authentication and authorization best practices",
+    "Secure coding techniques for web, mobile, and desktop apps",
+    "Threat modeling and risk assessment",
+    "Code review and security testing",
+    "Using security tools and static analysis"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to software security and SSDLC.",
+    "week_2": "Understanding common software vulnerabilities.",
+    "week_3": "Authentication, authorization, and session management.",
+    "week_4": "Secure coding techniques for different application types.",
+    "week_5": "Threat modeling, risk analysis, and mitigation strategies.",
+    "week_6": "Security testing, code reviews, and using automated tools."
+  }
+},
+{
+  "id": 93,
+  "title": "Internetworking & Routing Protocols",
+  "description": "Understand how networks communicate and scale by mastering routing protocols and internetworking concepts. Learn to design, configure, and troubleshoot interconnected networks using real-world tools and practices.",
+  "instructor": "Fouad Rami",
+  "category": "Networking & Infrastructure",
+  "image": "image/internetworking.webp",
+  "duration_weeks": 7,
+  "price": 64.99,
+  "skills": [
+    "Internetworking fundamentals (LANs, WANs, VLANs)",
+    "Router configuration and IP addressing",
+    "Static vs dynamic routing",
+    "Routing protocols (RIP, EIGRP, OSPF, BGP)",
+    "Subnetting and supernetting",
+    "Interconnecting heterogeneous networks",
+    "Troubleshooting with Cisco Packet Tracer or GNS3"
+  ],
+  "weekly_content": {
+    "week_1": "Overview of internetworking, IP addressing, and subnetting.",
+    "week_2": "Router configuration basics and introduction to static routing.",
+    "week_3": "Dynamic routing protocols: RIP and EIGRP.",
+    "week_4": "Advanced routing with OSPF and BGP overview.",
+    "week_5": "VLANs, trunking, and inter-VLAN routing.",
+    "week_6": "Interconnecting dissimilar networks (IPv4/IPv6, WAN links).",
+    "week_7": "Routing protocol comparison, network design, and troubleshooting labs."
+  }
+},
+{
+  "id": 94,
+  "title": "Interconnecting Networks",
+  "description": "Learn how to connect and configure different types of networks. Explore devices, media, and protocols that form the foundation of modern internetworking.",
+  "instructor": "Rami Khalife",
+  "category": "Networking & Infrastructure",
+  "image": "image/interconnected.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "Network devices (routers, switches, bridges, gateways)",
+    "OSI & TCP/IP models",
+    "IP addressing, subnetting, and NAT",
+    "Switching and VLANs",
+    "Routing basics and default gateways",
+    "Connecting LANs and WANs",
+    "Basic configuration with Cisco Packet Tracer"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to network types, devices, and layered models.",
+    "week_2": "IP addressing, subnetting, and default gateway concepts.",
+    "week_3": "Switching, VLANs, and inter-VLAN routing.",
+    "week_4": "Routing concepts: static routes and gateways.",
+    "week_5": "WAN technologies and connecting remote networks.",
+    "week_6": "Network configuration and testing using simulation tools."
+  }
+},
+{
+  "id": 95,
+  "title": "Knowledge Representation & Reasoning",
+  "description": "Teach machines how to represent and reason about the world! Learn how knowledge is structured, stored, and used in AI systems to make intelligent decisions.",
+  "instructor": "Reem Hatem",
+  "category": "AI & Machine Learning",
+  "image": "image/knowledge.jpg",
+  "duration_weeks": 6,
+  "price": 64.99,
+  "skills": [
+    "Logic-based knowledge representation",
+    "Propositional and First-Order Logic",
+    "Inference and resolution techniques",
+    "Semantic networks and ontologies",
+    "Rule-based systems and expert systems",
+    "Frames and description logics",
+    "Applications in AI planning and reasoning engines"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to KRR and its role in Artificial Intelligence.",
+    "week_2": "Propositional and predicate logic for representing facts.",
+    "week_3": "Reasoning with inference: forward and backward chaining.",
+    "week_4": "Semantic networks, ontologies, and knowledge graphs.",
+    "week_5": "Expert systems, rules, and decision trees.",
+    "week_6": "Case studies: reasoning in robotics, NLP, and AI planning."
+  }
+},
+{
+  "id": 96,
+  "title": "Tailwind CSS",
+  "description": "Style modern web interfaces with speed and flexibility using Tailwind CSS! Master utility-first design and build responsive, custom UIs without writing traditional CSS.",
+  "instructor": "Hiba Nasr",
+  "category": "Frontend Development",
+  "image": "image/tailwind.jpg",
+  "duration_weeks": 4,
+  "price": 39.99,
+  "skills": [
+    "Utility-first CSS principles",
+    "Responsive design with Tailwind",
+    "Custom themes and configurations",
+    "Dark mode and accessibility support",
+    "Working with Tailwind and frameworks (React, Vue, etc.)",
+    "Building and deploying Tailwind projects"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Tailwind CSS and utility-first design.",
+    "week_2": "Responsive design, layouts, and spacing.",
+    "week_3": "Customizing themes, dark mode, and plugins.",
+    "week_4": "Building a complete UI and deploying your project."
+  }
+},
+{
+  "id": 97,
+  "title": "Bootstrap 5",
+  "description": "Build responsive, mobile-first websites quickly with Bootstrap! Learn how to use ready-made components and utility classes to streamline your frontend development.",
+  "instructor": "Ali Younes",
+  "category": "Frontend Development",
+  "image": "image/bootstrap.avif",
+  "duration_weeks": 4,
+  "price": 34.99,
+  "skills": [
+    "Bootstrap grid and layout system",
+    "Reusable components (navbars, modals, cards, etc.)",
+    "Forms, buttons, and tables",
+    "Responsive utilities and breakpoints",
+    "Custom themes and overriding styles",
+    "Building real-world Bootstrap websites"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to Bootstrap and grid-based layouts.",
+    "week_2": "Using components and creating navigation systems.",
+    "week_3": "Styling forms, tables, and handling responsiveness.",
+    "week_4": "Custom themes and building a multi-page project."
+  }
+},
+{
+  "id": 98,
+  "title": "Vue.js",
+  "description": "Build powerful, modern web interfaces with Vue.js! Learn reactive programming, component-based architecture, and how to integrate Vue into full-stack applications.",
+  "instructor": "Yasmine Daher",
+  "category": "Frontend Development",
+  "image": "image/vue.jpg",
+  "duration_weeks": 6,
+  "price": 54.99,
+  "skills": [
+    "Vue instance and reactivity system",
+    "Templates, directives, and event handling",
+    "Component-based architecture",
+    "Routing with Vue Router",
+    "State management with Vuex",
+    "Working with APIs and lifecycle hooks",
+    "Building and deploying full Vue.js applications"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to Vue.js, setup, and first app.",
+    "week_2": "Templates, directives (v-if, v-for), and data binding.",
+    "week_3": "Creating and communicating between components.",
+    "week_4": "Vue Router for building single-page applications.",
+    "week_5": "State management with Vuex and working with APIs.",
+    "week_6": "Project: building and deploying a complete Vue.js web app."
+  }
+},
+{
+  "id": 99,
+  "title": "Grunt",
+  "description": "Automate your frontend workflow with Grunt! Learn how to speed up development tasks like minification, compilation, linting, and live reloading using one of JavaScript’s earliest task runners.",
+  "instructor": "Karim Zahed",
+  "category": "Frontend Development & DevOps",
+  "image": "image/grunt.png",
+  "duration_weeks": 3,
+  "price": 29.99,
+  "skills": [
+    "Grunt CLI and project setup",
+    "Creating and configuring Grunt tasks",
+    "Working with plugins (uglify, sass, concat, watch)",
+    "Automating repetitive frontend tasks",
+    "Combining tasks for build pipelines",
+    "Integrating Grunt with larger development workflows"
+  ],
+  "weekly_content": {
+    "week_1": "Intro to Grunt, setting up Gruntfile.js, and using basic tasks.",
+    "week_2": "Using core plugins for minification, compiling Sass, and watching files.",
+    "week_3": "Building complete workflows and integrating Grunt with real projects."
+  }
+},
+{
+  "id": 100,
+  "title": "PostgreSQL",
+  "description": "Master the power of PostgreSQL, an advanced open-source relational database. Learn how to design schemas, write efficient queries, and manage data securely and reliably.",
+  "instructor": "Nour Saliba",
+  "category": "Database Management",
+  "image": "image/postresql.png",
+  "duration_weeks": 6,
+  "price": 49.99,
+  "skills": [
+    "Relational database design & normalization",
+    "SQL queries: SELECT, JOIN, GROUP BY, etc.",
+    "Constraints, indexes, and foreign keys",
+    "Stored procedures, triggers, and views",
+    "Transactions and concurrency control",
+    "User roles, authentication, and security",
+    "Backup, restore, and performance tuning"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to PostgreSQL, setup, and basic SQL queries.",
+    "week_2": "Data modeling, table creation, constraints, and relationships.",
+    "week_3": "Advanced querying with joins, subqueries, and aggregations.",
+    "week_4": "Transactions, indexing, and performance optimization.",
+    "week_5": "Functions, triggers, and procedural language (PL/pgSQL).",
+    "week_6": "User management, security, backups, and final project."
+  }
+},
+{
+  "id": 101,
+  "title": "React Native",
+  "description": "Build beautiful and performant mobile apps using React Native! Learn how to develop cross-platform iOS and Android apps using JavaScript and React principles.",
+  "instructor": "Lina El-Khoury",
+  "category": "Mobile Development",
+  "image": "image/reactnative.jpg",
+  "duration_weeks": 6,
+  "price": 59.99,
+  "skills": [
+    "React Native fundamentals and setup",
+    "UI components and styling with Flexbox",
+    "Navigation with React Navigation",
+    "State management with Context and Redux",
+    "Handling APIs and asynchronous data",
+    "Deploying apps to Android and iOS",
+    "Debugging and performance optimization"
+  ],
+  "weekly_content": {
+    "week_1": "Introduction to React Native and project setup.",
+    "week_2": "Building layouts with core components and Flexbox styling.",
+    "week_3": "Navigation between screens using React Navigation.",
+    "week_4": "State management with useState, Context API, and Redux.",
+    "week_5": "Working with APIs, async storage, and user input.",
+    "week_6": "Testing, debugging, and deploying to iOS and Android stores."
+  }
+}
+
+
+
+]
