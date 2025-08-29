@@ -1,6 +1,4 @@
-﻿# LearnOnline
-
-LearnOnline 📚💻
+﻿# LearnOnline 📚💻
 LearnOnline is a full-featured online learning platform that allows students to enroll in courses, track progress, leave reviews, and make payments. The platform is built with HTML, CSS, JavaScript, PHP, and MySQL and supports both free and paid courses.
 
 Project Goals 🎯
@@ -71,5 +69,6 @@ Steps Performed 📌
 ⚪Unenroll – Opt out from any enrolled course.
 
 🌐 Live Demo : learnonline.rf.gd
+
 
 
